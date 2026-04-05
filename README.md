@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/26488587/README.1.md)
+(https://github.com/user-attachments/files/26488587/README.1.md)
 # GTM Portfolio — Shahin Eyvazzadeh
 
 Signal-driven GTM systems built for B2B environments. This repo hosts three live portfolio pieces covering enterprise pipeline architecture, SMB outbound infrastructure, and strategic GTM design.
